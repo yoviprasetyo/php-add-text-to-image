@@ -4,6 +4,10 @@
 (EN) The purpose of this repo is to give example how to convert input or text into image. In this case, membership card.
 (ID) Tujuan dari repo ini adalah memberikan contoh bagaimana cara konversi input atau teks menjadi sebuah gambar. Studi kasus kartu member atau kartu anggota.
 
+## Requirement
+1. PHP 7 or latest. Because it contain Null Coalescing Operator. If you can change it to ternary, then this requirement is optional.
+2. [GD Library](https://www.php.net/manual/en/refs.utilspec.image.php)
+
 ## Instalation
 (EN)
 1. Clone this repo
