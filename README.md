@@ -19,7 +19,7 @@
 
 
 ## Fonts
-This repo use (Bebas Front)[https://www.dafont.com/bebas.font]
+This repo use [Bebas Front](https://www.dafont.com/bebas.font)
 
 ## Note
 - You can use this technique to add watermark on your image too.
