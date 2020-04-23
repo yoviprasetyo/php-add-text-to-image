@@ -17,6 +17,10 @@
 3. Masukkan input
 4. Setelah itu semua isian akan menjadi gambar.
 
+## Functions
+There are functions that are the main functions
+- [imagecreatefrompng](https://www.php.net/manual/en/function.imagecreatefrompng.php)
+- [imagettftext](https://www.php.net/manual/en/function.imagettftext.php)
 
 ## Fonts
 This repo use [Bebas Front](http://bebasfont.com/)
